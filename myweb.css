@@ -1,0 +1,19 @@
+#container{
+    background-color: white;
+    width: 800px;
+}
+
+body{
+    background-color: #b1f2ff;
+    text-align: justify;
+    color: white;
+    font-style:inherit;
+}
+h2{
+    color: black;
+    text-align: center;
+    
+  }
+p{
+    color: black;
+}
